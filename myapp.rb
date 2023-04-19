@@ -6,5 +6,5 @@ get '/' do
 end
 
 get '/add' do
-    "<h1>Hello World!</h1><p>igoistoirgdiutghsl</p><a href='/'>index</a>"
+    "<h1>Hello World!</h1><p>コンフリクトしたよ</p><a href='/'>index</a>"
 end
